@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Ernesto Guzmán del Angel</h1>
 <h3 align="center">A passionate web devolepment from México</h3>
 
-- 🌱 I’m currently learning **ITC degree, I'm in 3 Semester**
+- 🌱 I’m currently learning **ITC degree, I'm in 5 Semester**
 
 - 💬 Ask me about **I'm a curios person that like videogames and make proyects in his free time**
 
